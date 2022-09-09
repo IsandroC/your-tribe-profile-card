@@ -67,14 +67,16 @@ h2 {
 }
 
 p.overmij {
+    opacity: 0;
     transition-duration: 1s;
     transition-delay: 0.25s;
 }
 
 span.overmij p.overmij {
-    visibility: hidden;
+    
   }
 
 span.overmij:hover p.overmij {
-    visibility: visible;
+    opacity: 1;
+
   }
