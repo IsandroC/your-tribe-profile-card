@@ -5,7 +5,7 @@
 html {
     background:  linear-gradient(0deg, black 40%, rgb(149, 0, 117) 150%);
     height: 120%;
-    background: no-repeat url("/assets/AoT WP.jpg");
+    background: no-repeat url("/assets/AoT\ WP.jpg");
 }
 
 body {
